@@ -151,7 +151,7 @@ npm start
 ### Resume Analysis
 
 <p align="center">
-  <img src="photos/analysis.png" width="900"/>
+  <img src="photos/analysis..png" width="900"/>
 </p>
 
 ---
