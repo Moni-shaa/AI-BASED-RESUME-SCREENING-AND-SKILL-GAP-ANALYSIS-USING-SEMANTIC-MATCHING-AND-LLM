@@ -1,4 +1,8 @@
 # AI-Based Resume Screening and Skill Gap Analysis System
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Flask](https://img.shields.io/badge/Backend-Flask-black)
+![Python](https://img.shields.io/badge/Python-3.10-yellow)
+![AI](https://img.shields.io/badge/AI-NLP-green)
 
 An intelligent AI-powered recruitment platform that automates resume screening, semantic candidate evaluation, and skill gap analysis using Natural Language Processing (NLP), Machine Learning, and Large Language Models (LLMs).
 
@@ -102,7 +106,7 @@ AI-Resume-Screener/
 ### Clone Repository
 
 ```bash id="5fvgn0"
-git clone https://github.com/your-username/AI-Resume-Screener.git
+git clone https://github.com/Moni-shaa/AI-BASED-RESUME-SCREENING-AND-SKILL-GAP-ANALYSIS-USING-SEMANTIC-MATCHING-AND-LLM.git
 ```
 
 ---
@@ -112,7 +116,7 @@ git clone https://github.com/your-username/AI-Resume-Screener.git
 ```bash id="fnc6g4"
 cd backend
 pip install -r requirements.txt
-python run.py
+python app.py
 ```
 
 ---
@@ -130,17 +134,25 @@ npm start
 
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 ### Landing Page
 
-![Landing Page](photos/landing.png)
+<p align="center">
+  <img src="photos/landing.png" width="900"/>
+</p>
 
 ### Dashboard
 
-![Dashboard](photos/dashboard.png)
+<p align="center">
+  <img src="photos/dashboard.png" width="900"/>
+</p>
 
 ### Resume Analysis
 
-![Resume Analysis](photos/analysis..png)
+<p align="center">
+  <img src="photos/analysis.png" width="900"/>
+</p>
 
 ---
 
@@ -163,4 +175,4 @@ npm start
 
 ## 📄 License
 
-This project is developed for academic and educational purposes.
+This project is developed for academic and educational purposes only. Unauthorized commercial use is prohibited.
