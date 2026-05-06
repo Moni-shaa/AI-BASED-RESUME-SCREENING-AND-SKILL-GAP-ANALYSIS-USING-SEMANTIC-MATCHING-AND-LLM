@@ -127,26 +127,20 @@ npm start
 
 ---
 
-## 🌐 Deployment
-
-* Frontend Deployment: Netlify
-* Backend Deployment: Render
-
----
 
 ## 📷 Screenshots
 
 ### Landing Page
 
-(Add Screenshot)
+![Landing Page](photos/landing.png)
 
 ### Dashboard
 
-(Add Screenshot)
+![Dashboard](photos/dashboard.png)
 
 ### Resume Analysis
 
-(Add Screenshot)
+![Resume Analysis](photos/analysis..png)
 
 ---
 
